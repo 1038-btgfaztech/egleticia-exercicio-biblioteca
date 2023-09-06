@@ -1,0 +1,15 @@
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.exe
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.deps.json
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.runtimeconfig.json
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.dll
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.pdb
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.csproj.AssemblyReference.cache
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.AssemblyInfoInputs.cache
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.AssemblyInfo.cs
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.csproj.CoreCompileInputs.cache
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.dll
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\refint\GerenciamentoBiblioteca.dll
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.pdb
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.genruntimeconfig.cache
+C:\GIT\Biblioteca-Gerenciamento\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net6.0\ref\GerenciamentoBiblioteca.dll
